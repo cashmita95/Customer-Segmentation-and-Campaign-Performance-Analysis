@@ -1,0 +1,23 @@
+CustomerID,Name,Age,Gender,Location,AnnualIncome,JoinDate
+1,"Amit Sharma",28,M,Mumbai,750000.00,2020-01-15
+2,"Priya Singh",34,F,Delhi,850000.00,2019-03-22
+3,"Rajesh Kumar",45,M,Bangalore,620000.00,2018-07-30
+4,"Sonia Verma",29,F,Hyderabad,950000.00,2021-09-10
+5,"Ravi Patel",41,M,Ahmedabad,540000.00,2017-12-05
+6,"Anita Desai",30,F,Pune,780000.00,2020-05-18
+7,"Vikram Rao",35,M,Chennai,880000.00,2019-08-23
+8,"Sneha Gupta",32,F,Kolkata,670000.00,2018-11-17
+9,"Manoj Mehta",50,M,Surat,710000.00,2016-04-12
+10,"Neha Bhatia",27,F,Jaipur,820000.00,2019-07-05
+11,"Arjun Malhotra",38,M,Lucknow,600000.00,2021-02-19
+12,"Pooja Reddy",29,F,Indore,930000.00,2020-09-28
+13,"Aakash Bose",33,M,Bhopal,570000.00,2017-01-25
+14,"Meera Kapoor",42,F,Kanpur,860000.00,2016-10-30
+15,"Rahul Sinha",31,M,Nagpur,690000.00,2019-05-14
+16,"Sunita Joshi",36,F,Thane,770000.00,2018-03-21
+17,"Vikas Aggarwal",29,M,Patna,750000.00,2021-06-13
+18,"Kiran Nair",34,F,Vadodara,880000.00,2017-08-07
+19,"Harish Iyer",45,M,Ghaziabad,620000.00,2018-12-15
+20,"Divya Chawla",29,F,Ludhiana,950000.00,2020-04-20
+21,"Nitin Kulkarni",41,M,Agra,540000.00,2019-11-03
+22,"Deepa Jain",30,F,Nashik,780000.00,2020-05-18

@@ -1,0 +1,23 @@
+CampaignID,CampaignName,StartDate,EndDate,Budget,Channel
+1,"Summer Sale",2022-06-01,2022-06-30,500000.00,Email
+2,"Black Friday",2022-11-20,2022-11-27,1000000.00,Social
+3,"New Year Promotion",2022-12-26,2023-01-05,800000.00,TV
+4,"Spring Clearance",2022-03-15,2022-03-25,300000.00,Email
+5,"Halloween Special",2022-10-25,2022-10-31,600000.00,Social
+6,"Diwali Dhamaka",2022-10-20,2022-10-30,700000.00,Email
+7,"Holi Hungama",2023-03-05,2023-03-12,450000.00,Social
+8,"Republic Day Offer",2023-01-20,2023-01-26,550000.00,TV
+9,"Independence Day Bash",2022-08-10,2022-08-15,650000.00,Email
+10,"Christmas Carnival",2022-12-20,2022-12-25,750000.00,Social
+11,"Monsoon Magic",2022-07-01,2022-07-15,480000.00,Email
+12,"Back to School",2022-06-10,2022-06-20,320000.00,TV
+13,"Festive Fiesta",2022-10-01,2022-10-10,900000.00,Social
+14,"Summer Bonanza",2022-05-01,2022-05-10,530000.00,Email
+15,"Winter Wonderland",2022-12-01,2022-12-10,610000.00,TV
+16,"Easter Extravaganza",2023-04-01,2023-04-10,450000.00,Email
+17,"Baisakhi Blast",2023-04-12,2023-04-18,350000.00,Social
+18,"Onam Offers",2023-08-15,2023-08-25,640000.00,Email
+19,"Ganesh Chaturthi Deals",2023-09-01,2023-09-10,680000.00,Social
+20,"Pongal Promotions",2023-01-10,2023-01-17,390000.00,TV
+21,"Raksha Bandhan Special",2023-08-01,2023-08-10,510000.00,Email
+22,"Navratri Nights",2023-09-20,2023-09-30,750000.00,Social
