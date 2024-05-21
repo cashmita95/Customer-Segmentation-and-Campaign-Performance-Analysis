@@ -83,4 +83,4 @@ This project focuses on analyzing marketing campaign data using SQL queries to g
 - **FROM Clause**: Specifies the tables from which to retrieve data.
 
 ### Case … End Statement
-- **CASE**: A conditional expression that allows us to perform conditional logic within our queries.
+- **CASE … END Statement**: A conditional expression that allows us to perform conditional logic within our queries.
